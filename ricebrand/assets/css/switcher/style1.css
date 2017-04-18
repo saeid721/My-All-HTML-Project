@@ -1,0 +1,88 @@
+#style-switcher h2 a { background: #15191C none repeat scroll 0 0 }
+
+/*START SCROLL TO TOP*/
+.topcontrol {background: #228B22 none repeat scroll 0 0;}
+/*END SCROLL TO TOP*/
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+    color: #228B22 !important;
+    background-color: transparent;
+}
+.navbar-default .navbar-nav>.open>a,
+.navbar-default .navbar-nav>.open>a:hover,
+.navbar-default .navbar-nav>.open>a:focus {
+    color: #228B22 !important;
+    background-color: transparent;
+}
+
+.menu-top li a:hover { color: #228B22!important }
+
+.navbar-default.menu-shrink li a:hover { color: #228B22 !important }
+.navbar-default .navbar-toggle .icon-bar { background-color: #228B22 }
+
+
+.section-title span {background: #228B22 none repeat scroll 0 0;}
+
+.btn-home-bg {background: #228B22 none repeat scroll 0 0;border: 2px solid #228B22;}
+
+
+.single_feature i {background: #228B22 none repeat scroll 0 0;}
+
+.single_feature:hover {background: #228B22 none repeat scroll 0 0;}
+
+.single_feature:hover i {color: #228B22;}
+
+.service:hover {background:#228B22;}
+
+.service:hover .icon {color: #228B22;}
+
+.our_work_menu ul li:hover,
+.our_work_menu ul li.active {background: #228B22 none repeat scroll 0 0;border-color: #228B22;}
+
+.sing_link_img a:hover {background: #228B22;}
+
+.single_our_work:hover {background: #228B22;}
+
+.btn-portfolio-bg {background: #228B22 none repeat scroll 0 0;}
+
+.carousel-indicators li {border: 1px solid #228B22;background: #228B22;}
+
+.counter i {background: #228B22 none repeat scroll 0 0;border: 2px solid #228B22;}
+
+.counter:hover i{background:none;color:#228B22;border:2px solid #228B22}
+
+.social > li:after {background: #228B22 none repeat scroll 0 0;}
+
+.team_text ul.social li a i:hover {border-color: #e8e8e9;background: #228B22;}
+
+.social > li:hover:after { background: #228B22 }
+
+.progress-bar > span {background: #228B22 none repeat scroll 0 0;}
+
+.pricing-table-default:hover{ background: #228B22;}
+
+.pricing-head .price {background-color: #228B22;}
+
+.pricing-table-default:hover .price{color: #228B22;}
+
+.pricing-table-default:hover .btn{color: #228B22;}
+
+.blog-text i { color: #228B22 }
+
+.blog-text span {color: #228B22;}
+
+.btn-blog-bg:hover{color:#228B22;}
+
+.form-control:focus {border: 1px solid #228B22;}
+
+.btn-contact-bg {
+	    background: #228B22;
+}
+
+.contact-address {
+	
+}
+
+.copyright a {color: #228B22;}
